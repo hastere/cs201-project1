@@ -1,0 +1,7 @@
+/mnt/c/Users/Andrew/Documents/Personal Files/CS201/Project1
+Fri Sep  9 16:03:01 DST 2016
+bst.c	       calculon.c	       node.h	scanner.c  stack.o
+bst.h	       calculon.o	       node.o	scanner.h  value.c
+bst.o	       hastere@crimson.ua.edu  queue.c	scanner.o  value.h
+calculate.txt  makefile		       queue.h	stack.c    value.o
+calculon       node.c		       queue.o	stack.h    WORKING
